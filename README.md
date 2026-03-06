@@ -2,7 +2,7 @@
 
 I'm an AI Product Manager who actually ships things.
 
-My day job is building AI products at [Blueflame AI](https://www.blueflame.ai). My side projects are how I stay honest — real code, real problems, real users.
+My day job is building AI products at [Blueflame AI](https://www.blueflame.ai). My side projects are how I stay honest: real code, real problems, real users.
 
 Most PMs can write a spec. I'd rather build the prototype first.
 
@@ -21,7 +21,7 @@ Most PMs can write a spec. I'd rather build the prototype first.
 
 - 🏙️ AI Product Manager at **Blueflame AI**, New York City
 - 🎯 Building AI products that feel effortless to users and are defensible for businesses
-- 🔍 Focused on the intersection of LLMs, UX, and real revenue — not demos
+- 🔍 Focused on the intersection of LLMs, UX, and real revenue
 - 💡 Believer that the best PMs in AI need to understand what's actually happening under the hood
 
 ---
