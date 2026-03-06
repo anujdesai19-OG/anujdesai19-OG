@@ -13,7 +13,7 @@ Most PMs can write a spec. I'd rather build the prototype first.
 - 🛋️ **AI-powered consumer apps** — from furniture retail to dating, building products where the AI *is* the feature
 - 🧠 **LLM product design** — tool calling, RAG, structured outputs, streaming UX patterns, and evaluation loops
 - 🏗️ **Full-stack prototyping** — Next.js + TypeScript + Prisma so I can go from idea → working demo fast
-- 📐 **Product strategy for AI** — PRDs, 0→1 frameworks, and go-to-market for products where the AI *is* the feature
+- 📐 **Product strategy for AI** — PRDs, 0→1 frameworks, and go-to-market for AI products *of* all industires
 
 ---
 
