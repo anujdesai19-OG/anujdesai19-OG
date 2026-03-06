@@ -10,7 +10,7 @@ Most PMs can write a spec. I'd rather build the prototype first.
 
 ### What I work on
 
-- 🛋️ **AI-powered consumer apps** — Roomly uses Claude to generate personalized, shoppable room plans from a retailer's catalog
+- 🛋️ **AI-powered consumer apps** — from furniture retail to dating, building products where the AI *is* the feature
 - 🧠 **LLM product design** — tool calling, RAG, structured outputs, streaming UX patterns, and evaluation loops
 - 🏗️ **Full-stack prototyping** — Next.js + TypeScript + Prisma so I can go from idea → working demo fast
 - 📐 **Product strategy for AI** — PRDs, 0→1 frameworks, and go-to-market for products where the AI *is* the feature
@@ -33,6 +33,12 @@ Most PMs can write a spec. I'd rather build the prototype first.
 A B2B SaaS that sits inside a retailer's store (kiosk or web) and helps shoppers furnish their home — fast. Shoppers enter their style, budget, and space. Roomly uses Claude to pull from that retailer's catalog and generate a coherent, shoppable room plan with natural-language refinement.
 
 **Stack:** Next.js 16 · React 19 · TypeScript · Prisma · PostgreSQL · Anthropic SDK · Tailwind CSS · Shadcn UI · Vercel
+
+#### 💑 [Curadate](https://github.com/anujdesai19-OG/curadate) — AI Date Planner
+
+Stop defaulting to "drinks?" Curadate takes your dating profile, your match's profile, and your message history and generates 3–5 curated, context-grounded date plans in under 30 seconds — complete with itineraries, cost estimates, and venue links. Built for people who want to make a strong impression without the planning anxiety.
+
+**Stack:** Next.js · TypeScript · Anthropic SDK · Google Places API · Vercel
 
 ---
 
